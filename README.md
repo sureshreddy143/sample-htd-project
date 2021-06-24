@@ -1,6 +1,21 @@
 # Demo Java Web App
+CI/CD project using simple Java web app Apllication
 
-[![BoltOps Badge](https://img.boltops.com/boltops/badges/boltops-badge.png)](https://www.boltops.com)
+Create a AWS account
+Launch the EC-2 Instances
+t2.micro
+t3a.medium
+
+#How to setup the each tools in the ec2-servers
+-----------------------
+      Jenkins
+-----------------------
+# installation of the jenkins
+           https://techviewleo.com/install-jenkins-server-on-amazon-linux/
+ * install the git,maven,open-jdk
+ * open the jenkins using the specific IP and Port
+ * download the suggested plugins or manually you can select the plugins
+ 
 
 Simple java project demos how to build a war file to be deployed on a Tomcat server.
 
