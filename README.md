@@ -5,6 +5,7 @@ Create a AWS account
 Launch the EC-2 Instances
 t2.micro
 t3a.medium
+Thrun is a lover boy.
 
 #How to setup the each tools in the ec2-servers
 -----------------------
